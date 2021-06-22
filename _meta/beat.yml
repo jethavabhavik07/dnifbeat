@@ -1,0 +1,7 @@
+################### Dnifbeat Configuration Example #########################
+
+############################# Dnifbeat ######################################
+
+dnifbeat:
+  # Defines how often an event is sent to the output
+  period: 1s

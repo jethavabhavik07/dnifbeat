@@ -1,0 +1,9 @@
+- key: dnifbeat
+  title: dnifbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
